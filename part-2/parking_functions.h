@@ -1,4 +1,7 @@
-// TODO: Add the required header
+// Saraii Roa
+// roas23@csu.fullerton.edu
+// @roas23
+// Partners: @bhavesh1024
 
 #ifndef PARKING_FUNCTIONS_H
 #define PARKING_FUNCTIONS_H
@@ -7,7 +10,7 @@
 
 // Returns true if parking is allowed on Ash Street at the given time, or
 // false otherwise.
-//
+
 // The sign on Ash street reads:
 // NO PARKING 10AM TO 12PM WEDNESDAY STREET SWEEPING
 //
